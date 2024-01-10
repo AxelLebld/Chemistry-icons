@@ -3,3 +3,4 @@
 
 <p align="justify">Currently, four icons are available related to metabolomics and analytical chemistry. However, this repository will be updated with new icons according to my needs for my future publications.</p>
 
+## Icons available
