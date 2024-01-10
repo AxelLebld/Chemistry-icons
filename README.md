@@ -1,7 +1,7 @@
 # Chemistry-icons
 <p align="justify">This repository contains a small set of handmade SVG/png icons for chemistry/biology. These icons can be used freely in any scientific production, including papers, presentations and reports. This repository has been created to meet chemists' needs in the design of their figures/schemes by avoiding the use of websites which may include subscription fees or citing sources.</p>
 
-<p align="justify">Currently, four icons are available related to laboratory equipment. This repository will be updated gradually.</p>
+<p align="justify">Currently, four icons related to laboratory equipment are available. This repository will be updated gradually.</p>
 
 ## Icons available
 <img src="https://github.com/AxelLebld/Chemistry-icons/assets/154551356/d08c40f5-5f62-4006-9d77-c9dcfc19540c.svg" width=10% height=10%>
