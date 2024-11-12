@@ -4,10 +4,10 @@
 <p align="justify">Currently, a very small set of icons related to laboratory equipment is available. However, this repository will be updated gradually.</p>
 
 ## Icons available
-<img src="https://github.com/AxelLebld/Chemistry-icons/assets/154551356/d08c40f5-5f62-4006-9d77-c9dcfc19540c.svg" width=10% height=10%>
-<img src="https://github.com/AxelLebld/Chemistry-icons/assets/154551356/f8ba92ca-8165-4f78-8d26-8091b4db8824.svg" width=20% height=20%> 
-<img src="https://github.com/AxelLebld/Chemistry-icons/assets/154551356/559c68a9-e478-4a2d-a9f4-b8def9dc6528.svg" width=15% height=15%>
-<img src="https://github.com/AxelLebld/Chemistry-icons/assets/154551356/7c406192-03b7-419a-a1d5-ff83a6f9b0ec.svg" width=2% height=2%> 
-<img src="https://github.com/AxelLebld/Chemistry-icons/assets/154551356/03569a92-8cc4-4ec9-ac64-fdaa8a123015.svg" width=10% height=10%>
-<img src="https://github.com/AxelLebld/Chemistry-icons/icons_svg/combiflash_bottles.svg" width=10% height=10%>
-<img src="icons_svg/combiflash_bottles.svg">
+<img src="icons_svg/quadrupole_MS.svg" width=10% height=10%>
+<img src="icons_svg/qtof.svg" width=15% height=15%>
+<img src="icons_svg/hplc.svg" width=7% height=7%>
+<img src="icons_svg/combiflash_bottles.svg" width=9% height=9%>
+<img src="icons_svg/combiflash.svg" width=9% height=9%> 
+<img src="icons_svg/pipette.svg" width=1.5% height=1.5%> 
+<img src="icons_svg/wellplate_96.svg" width=7% height=7%>
